@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfo_maya-REACT_SPA/static/css/main.d44384bf.css",
+    "main.js": "/portfo_maya-REACT_SPA/static/js/main.1d640cc9.js",
+    "static/media/5.png": "/portfo_maya-REACT_SPA/static/media/5.35debbc636af722d156a.png",
+    "static/media/0.png": "/portfo_maya-REACT_SPA/static/media/0.9fb8749033e53fbfb6e6.png",
+    "static/media/4.png": "/portfo_maya-REACT_SPA/static/media/4.e63084312e941d1d768a.png",
+    "static/media/1.png": "/portfo_maya-REACT_SPA/static/media/1.af92ed8138a2932e15fa.png",
+    "static/media/2.png": "/portfo_maya-REACT_SPA/static/media/2.9fc23353be74ed070868.png",
+    "static/media/3.png": "/portfo_maya-REACT_SPA/static/media/3.1c2e37d3bf0d5a97c763.png",
+    "static/media/6.png": "/portfo_maya-REACT_SPA/static/media/6.4b91cbf00b03f0bd2b3b.png",
+    "static/media/7.png": "/portfo_maya-REACT_SPA/static/media/7.de829f8b1482c7d96cff.png",
+    "index.html": "/portfo_maya-REACT_SPA/index.html",
+    "main.d44384bf.css.map": "/portfo_maya-REACT_SPA/static/css/main.d44384bf.css.map",
+    "main.1d640cc9.js.map": "/portfo_maya-REACT_SPA/static/js/main.1d640cc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44384bf.css",
+    "static/js/main.1d640cc9.js"
+  ]
+}
