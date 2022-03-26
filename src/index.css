@@ -10,6 +10,15 @@ body {
 p {
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.nav-link {
+	color: black;
+}
+.nav-link .active {
+	color: white;
+}
+.nav-link:hover {
+	color: white;
+}
 .container {
 	display: flex;
 	flex-direction: column;
