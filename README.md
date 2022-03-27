@@ -1,5 +1,7 @@
 # portfo_maya-REACT_SPA
 
+A place to share my projects with fellow developers and collaborate on future projects.
+
 ## DEMO
 https://boomajka.github.io/portfo_maya-REACT_SPA/
 
