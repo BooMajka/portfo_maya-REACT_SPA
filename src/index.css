@@ -31,6 +31,10 @@ p {
 	margin:20px 0;
 	font-family: fantasy;
 	text-align: center;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
 	
 }
 .header h3{
